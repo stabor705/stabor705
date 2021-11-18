@@ -1,4 +1,4 @@
-### Hi there 👋
+*"A man's true delight is to do the things he was made for"*. ~Marcus Aurelius
 
 <!--
 **stabor705/stabor705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
