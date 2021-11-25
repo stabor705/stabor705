@@ -1,5 +1,7 @@
 *"A man's true delight is to do the things he was made for"*. ~Marcus Aurelius
 
+[Link do stronki](https://stabor705.github.io/)
+
 <!--
 **stabor705/stabor705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
