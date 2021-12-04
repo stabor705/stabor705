@@ -2,6 +2,8 @@
 
 [Link do stronki](https://stabor705.github.io/)
 
+[Link do Forka](https://github.com/stabor705/WantWords)
+
 <!--
 **stabor705/stabor705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
